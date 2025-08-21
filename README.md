@@ -124,7 +124,6 @@ Ensure vectors have correct shape (384,).
 ```json
 {
   "query": "AI techniques for cancer detection",
-  "top_k": 5
 }
 ```
 
@@ -133,26 +132,48 @@ Ensure vectors have correct shape (384,).
 ```json
 {
   "query": "AI techniques for cancer detection",
-  "similar_patents": [
-    {
-      "doc_id": 123,
-      "score": 0.91,
-      "title": "Deep Learning for Tumor Detection",
-      "source": "USPTO",
-      "publication_date": "2021-03-22",
-      "type": "patent"
-    }
-  ],
-  "similar_research": [
-    {
-      "doc_id": 456,
-      "score": 0.87,
-      "title": "AI in Radiology: A Survey",
-      "source": "IEEE Xplore",
-      "publication_date": "2022-08-01",
-      "type": "research"
-    }
-  ]
+  <cluster_topic1> :[
+    "similar_patents": [
+      {
+        "doc_id": 123,
+        "score": 0.91,
+        "title": "Deep Learning for Tumor Detection",
+        "source": "USPTO",
+        "publication_date": "2021-03-22",
+        "type": "patent"
+      }
+    ],
+    "similar_research": [
+      {
+        "doc_id": 456,
+        "score": 0.87,
+        "title": "AI in Radiology: A Survey",
+        "source": "IEEE Xplore",
+        "publication_date": "2022-08-01",
+        "type": "research"
+      }
+    ]],
+ <cluster_topic2> :[
+    "similar_patents": [
+      {
+        "doc_id": 123,
+        "score": 0.91,
+        "title": "Deep Learning for Tumor Detection",
+        "source": "USPTO",
+        "publication_date": "2021-03-22",
+        "type": "patent"
+      }
+    ],
+    "similar_research": [
+      {
+        "doc_id": 456,
+        "score": 0.87,
+        "title": "AI in Radiology: A Survey",
+        "source": "IEEE Xplore",
+        "publication_date": "2022-08-01",
+        "type": "research"
+      }
+    ]],
 }
 ```
 
