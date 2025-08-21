@@ -6,14 +6,31 @@ This project implements a **semantic search** system that lets users retrieve re
 
 ## 🚀 Live Demo
 
-🌐 Try it here: [https://semantic-patent-search.onrender.com](https://semantic-patent-search.onrender.com)
+🌐 Try it here: [https://semantic-patent-search.onrender.com](https://semantic-patent-search.onrender.com) {currently link broken ## from Render}
 
 ---
 
 ## Screenshot
-
+```json
+{
+  "query": "Patents related to logistics, security, and blockchain"
+}
 <img width="1776" height="722" alt="image" src="https://github.com/user-attachments/assets/7cdc7e06-45b1-4620-8e14-e020b1d3666a" />
+```
+```json
+{
+  "query": "Research papers on medical imaging, AI-based diagnostics"
+}
+<img width="1632" height="662" alt="image" src="https://github.com/user-attachments/assets/e648084d-4512-40e1-9503-4ccd2f3864a0" />
 
+```
+```json
+{
+  "query": "Patents & research on LIDAR, GPS, AI-driven pathfinding"
+}
+<img width="1667" height="676" alt="image" src="https://github.com/user-attachments/assets/9fbb2d61-9f41-4f6d-9403-2312d05ec597" />
+
+```
 
 ## 🧠 Approach
 
