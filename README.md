@@ -30,10 +30,12 @@ This project implements a **semantic search** system that lets users retrieve re
 }
 ```
 <img width="1667" height="676" alt="image" src="https://github.com/user-attachments/assets/9fbb2d61-9f41-4f6d-9403-2312d05ec597" />
+```
+```
 ---
 
 
-##Video Snapshot
+## Video Snapshot
 [https://drive.google.com/file/d/1q-QoSlI4qjLYQKKw25LoacBRtqsba3Js/view?usp=sharing](https://drive.google.com/file/d/1q-QoSlI4qjLYQKKw25LoacBRtqsba3Js/view?usp=sharing)
 
 
