@@ -24,7 +24,7 @@ This project implements a **semantic search** system that lets users retrieve re
 
 ### 🟢 3. FastAPI Backend
 
-- Exposes a `/` POST endpoint that:
+- Exposes a `/search` POST endpoint that:
   - Accepts user queries.
   - Converts them to vector embeddings.
   - Sends them to Zilliz to retrieve the top-K matches.
@@ -117,7 +117,7 @@ Ensure vectors have correct shape (384,).
 
 ### 📬 API Usage
 
-▶️ **POST /**
+▶️ **POST /search/**
 
 **Request:**
 
