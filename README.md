@@ -10,6 +10,11 @@ This project implements a **semantic search** system that lets users retrieve re
 
 ---
 
+## Screenshot
+
+<img width="1776" height="722" alt="image" src="https://github.com/user-attachments/assets/7cdc7e06-45b1-4620-8e14-e020b1d3666a" />
+
+
 ## 🧠 Approach
 
 ### 🟢 1. Vectorization
